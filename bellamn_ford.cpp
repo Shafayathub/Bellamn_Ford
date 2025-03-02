@@ -55,7 +55,7 @@ void bellman_ford()
     }
     else
     {
-        cout << "No negative weighted cycle";
+        cout << "No negative weighted cycle\n";
         for (int i = 0; i < n; i++)
         {
             cout << i << " dis -> " << dis[i] << endl;
