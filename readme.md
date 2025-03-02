@@ -123,7 +123,3 @@ If a negative weight cycle exists, the output will be:
 ```
 Graph contains a negative weight cycle
 ```
-
-
-## License
-This project is licensed under the MIT License.
